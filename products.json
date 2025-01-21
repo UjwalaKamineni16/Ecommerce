@@ -1,0 +1,32 @@
+[
+    {
+        "name": "maxx",
+        "price": 450,
+        "brand": "LG",
+        "category": "mobile"
+    },
+    {
+        "name": "m 40 pro",
+        "price": 500,
+        "brand": "Samsung",
+        "category": "mobile"
+    },
+    {
+        "name": "u10",
+        "price": 430,
+        "brand": "Vivo",
+        "category": "mobile"
+    },
+    {
+        "name": "15",
+        "price": 800,
+        "brand": "iphone",
+        "category": "mobile"
+    },
+    {
+        "name": "mi 8",
+        "price": 300,
+        "brand": "Redmi",
+        "category": "mobile"
+    }
+]
